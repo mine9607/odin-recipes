@@ -1,4 +1,7 @@
-# odin-recipes
+# HTML pages of recipes
+
+*EDIT - this repo highlights basic usage of HTML to create webpages.  Learnings included: HTML elements such as links, headings, paragraphs, lists and imgs
+
 Setup a simple website for storing recipes
 
     1) Create a main page as an 'index.html' file
@@ -7,4 +10,5 @@ Setup a simple website for storing recipes
         separate paragraphs <p></p>
         emphasize (italicize) different text <em></em>
         bold different text <strong></strong>
-    
+
+-- 08/02/24 - Archiving this repo
